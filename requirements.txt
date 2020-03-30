@@ -1,0 +1,6 @@
+PyYAML
+elasticsearch
+certifi
+faker
+simplejson
+pytz
